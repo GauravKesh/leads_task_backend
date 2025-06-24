@@ -63,7 +63,7 @@ server/
 # 🧪 Running Locally
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/lead-backend.git
+git clone https://github.com/gauravkesh/lead-backend.git
 cd lead-backend
 ```
 ### 2. Setup Environment
