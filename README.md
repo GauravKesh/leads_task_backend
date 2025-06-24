@@ -64,7 +64,7 @@ server/
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/GauravKesh/leads_task_backend
-cd lead-backend
+cd leads_task_backend
 ```
 ### 2. Setup Environment
 Create a .env file:
