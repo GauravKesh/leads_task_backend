@@ -20,6 +20,9 @@ A simple Express.js + MongoDB backend for managing leads. Built as part of a Bac
 - dotenv-flow
 - Nodemon (dev)
 
+## Hosting
+This project is hosted on [Render](https://render.com/). You can find the live version [here](https://leads-backend-9ria.onrender.com)
+
 ## 📁 Folder Structure
 ```
 server/
@@ -38,9 +41,9 @@ server/
 
 | Method | Endpoint       | Description         |
 |--------|----------------|---------------------|
-| GET    | `/api/health`  | Health check        |
+| GET    | `/api/health`  | [Health check](https://leads-backend-9ria.onrender.com/api/health)        |
 | POST   | `/api/leads`   | Add new lead        |
-| GET    | `/api/leads`   | Get all leads       |
+| GET    | `/api/leads`   | [Get all leads ](https://leads-backend-9ria.onrender.com/api/v1/leads)      |
 | PUT    | `/api/leads/:id` | Update a lead     |
 | DELETE | `/api/leads/:id` | Delete a lead     |
 
